@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ekansh+Arohi+%F0%9F%91%BE;Hardware+%C3%97+Software%2C+Not+Either%2FOr;Deploying+ML+on+Hardware;Soldering+PCBs+for+Fun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ekansh\!;Hardware+%C3%97+Software%2C+Not+Either%2FOr;Deploying+AI+on+Edge;Soldering+PCBs+for+Fun)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=exorev07&style=flat-square&color=a855f7" alt="Profile Views" />
 
@@ -72,5 +72,5 @@
 </div>
 
 <div align="center">
-<i>If it has a processor and enough flash, I've probably tried to run a model on it. Sometimes it even works.</i> 🤖✨
+<i>If it has a processor and enough flash, I've probably tried to run a model on it.</i> ✨
 </div>
