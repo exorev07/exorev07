@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ekansh+Arohi+%F0%9F%91%BE;TinyML+%2B+Edge+AI+Nerd;IoT+%2B+Embedded+Systems+Tinkerer;Building+the+Future%2C+One+Edge+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ekansh+Arohi+%F0%9F%91%BE;Hardware+%C3%97+Software%2C+Not+Either%2FOr;Deploying+ML+on+Things+That+Shouldn't+Run+ML;Soldering+PCBs+for+Fun+%E2%80%94+Yes%2C+Actually)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=exorev07&style=flat-square&color=a855f7" alt="Profile Views" />
 
-**Data Science & AI undergrad @ IIIT Naya Raipur** | Hyderabad, India  
-*Obsessed with running ML on tiny hardware that has no business running ML* ⚡
+**Data Science & AI @ IIIT Naya Raipur** · Sophomore · Hyderabad, India  
+*The hardware-software hybrid guy. Not purely embedded. Not purely ML. Dangerously both.*
 
 </div>
 
@@ -13,11 +13,11 @@
 
 ### 🧠 About Me
 
-- I make microcontrollers do things they weren't designed to do - *TinyML, Edge AI, IoT*
-- Currently deep in **Battery Management Systems** and **CAN network security**
-- Exploring the wild intersection of **Embedded Systems × Machine Learning**
-- Strong opinions on **DSA**, clean code, and making dashboards look cool
-- Powered by curiosity (and questionable amounts of caffeine)
+- I squeeze neural nets onto ESP32s and microcontrollers that have absolutely no business running ML — and somehow it works
+- Currently deep in **Battery Management Systems**, **CAN bus intrusion detection**, **DSA**, and systems design
+- In my free time I actually solder PCBs and wire up circuits because I genuinely enjoy it — not for a project, just because
+- I find hardware-software intersections more interesting than either in isolation
+- Not a hustle-culture person. Just someone who thinks this stuff is legitimately cool and can't stop tinkering
 
 ---
 
@@ -38,16 +38,16 @@
 
 ---
 
-### 🚀 Notable Projects
+### 🚀 Projects
 
 | Project | What it does | Vibe |
 |---|---|---|
-| 🔋 **TinyML BMS** | Battery management with on-device ML | Edge AI on batteries |
-| 🚗 **CAN Intrusion Detection** | TinyML security for CAN bus networks | Cars but make it secure |
-| 🏥 **Curalink** | Real-time hospital bed occupancy (React + Firebase) | IoT saves lives |
-| 🚲 **Bike Guardian** | Ultrasonic bicycle safety system in C++ | Low-tech, high safety |
-| 🐭 **Micro-Mouse** | Arduino autonomous maze-solving robot | *zoom zoom* |
-| 🧸 **Chuha Pie** | Cute C++ desk companion | Wholesome code |
+| 🔋 **TinyML BMS** | On-device ML for battery management — SoC, SoH, fault detection, all on-chip | Edge AI where it actually matters |
+| 🚗 **CAN Intrusion Detection** | TinyML-powered IDS for CAN bus networks in vehicles | Making cars harder to hack |
+| 🏥 **Curalink** | Real-time hospital bed occupancy tracking via React + Firebase | IoT with actual stakes |
+| 🚲 **Bike Guardian** | Ultrasonic bicycle safety system, written in C++ | Low-tech, high-impact |
+| 🐭 **Micro-Mouse** | Autonomous Arduino robot that solves mazes on its own | *zoom zoom* |
+| 🧸 **Chuha Pie** | C++ desk companion. It's called Chuha Pie. That's the whole bit. | Wholesome code |
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect
 
 <div align="center">
 
@@ -73,5 +73,5 @@
 </div>
 
 <div align="center">
-<i>If it runs on a microcontroller, I've probably tried to put a neural net on it.</i> 🤖✨
+<i>If it has a processor and enough flash, I've probably tried to run a model on it. Sometimes it even works.</i> 🤖✨
 </div>
