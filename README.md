@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ekansh+Arohi+%F0%9F%91%BE;Hardware+%C3%97+Software%2C+Not+Either%2FOr;Deploying+ML+on+Things+That+Shouldn't+Run+ML;Soldering+PCBs+for+Fun+%E2%80%94+Yes%2C+Actually)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ekansh+Arohi+%F0%9F%91%BE;Hardware+%C3%97+Software%2C+Not+Either%2FOr;Deploying+ML+on+Hardware;Soldering+PCBs+for+Fun)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=exorev07&style=flat-square&color=a855f7" alt="Profile Views" />
 
@@ -13,11 +13,10 @@
 
 ### 🧠 About Me
 
-- I squeeze neural nets onto ESP32s and microcontrollers that have absolutely no business running ML — and somehow it works
-- Currently deep in **Battery Management Systems**, **CAN bus intrusion detection**, **DSA**, and systems design
-- In my free time I actually solder PCBs and wire up circuits because I genuinely enjoy it — not for a project, just because
-- I find hardware-software intersections more interesting than either in isolation
-- Not a hustle-culture person. Just someone who thinks this stuff is legitimately cool and can't stop tinkering
+- I squeeze neural nets onto ESP32s and microcontrollers that have absolutely no business running ML.
+- Currently deep into **Embedded Systems**, **AI/ML**, **DSA**, and Computer Fundamentals.
+- In my free time I love to tinker with PCBs and electronic hardware to make something cool out of them.
+- I find hardware-software intersections more interesting than either in isolation.
 
 ---
 
